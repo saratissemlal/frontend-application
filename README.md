@@ -25,7 +25,13 @@ Elle s’appuie sur un **modèle de graphe enrichi**, pour une analyse fine et v
 - **neo4j-driver** : connexion Python ↔ Neo4j  
 
 ---
+📌 Liens utiles
+📋 Trello (gestion de projet) :
+https://trello.com/invite/b/686d48f9ca1339483ec26174/ATTId025408b51e2d2f4329cc2b49aa8fc9e7F7602A4
 
+🖥️ Présentation du projet :
+https://docs.google.com/presentation/d/1AgsE_zf5RmYvRELgu7o_JzAkBzF0SkuT/edit?usp=sharing
+ ---
 ## 📦 Installation
 
 Clone le dépôt :
@@ -33,15 +39,7 @@ Clone le dépôt :
 git clone https://github.com/L1ouise/Analyst.git
 cd Analyst
 
-Lance l’application :
 
-bash
-Copier
-Modifier
+# Lance l’application :
+
 streamlit run app.py
-📌 Liens utiles
-📋 Trello (gestion de projet) :
-https://trello.com/invite/b/686d48f9ca1339483ec26174/ATTId025408b51e2d2f4329cc2b49aa8fc9e7F7602A4
-
-🖥️ Présentation du projet :
-https://docs.google.com/presentation/d/1AgsE_zf5RmYvRELgu7o_JzAkBzF0SkuT/edit?usp=sharing
